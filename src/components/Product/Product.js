@@ -8,7 +8,6 @@ import './Product.css'
 const Product = (props) => {
 
     const {product,handleAddToCart} = props;
-
     const {name,price, img} = product;
 
 

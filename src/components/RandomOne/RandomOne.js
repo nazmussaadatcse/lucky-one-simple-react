@@ -3,6 +3,7 @@ import React from 'react';
 const RandomOne = (props) => {
     
     // console.log(RandomProduct);
+    
     const {name} = props.RandomProduct;
 
     return (

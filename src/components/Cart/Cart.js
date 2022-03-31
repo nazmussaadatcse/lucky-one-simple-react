@@ -5,7 +5,7 @@ import './Cart.css'
 
 const Cart = ({cart,handleRandomOne,random,handleRemove}) => {
 
-    // console.log(cart);
+
     return (
 
         <div className='cart'>

@@ -34,7 +34,7 @@ const Shop = () => {
         const random = cart[Math.floor(Math.random()*cart.length)];
         
         setRandom(random);
-        // console.log(random);
+ 
     };
 
     const handleRemove = () =>{
